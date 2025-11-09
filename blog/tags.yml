@@ -1,19 +1,15 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+extend:
+  label: 拓展阅读
+  permalink: /extend
+  description: 拓展阅读，用来开拓视野
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+elective:
+  label: 选读
+  permalink: /elective
+  description: 选择性阅读的文章
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+others:
+  label: 其他
+  permalink: /others
+  description: 其他
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description

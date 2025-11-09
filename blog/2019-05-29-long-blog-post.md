@@ -1,8 +1,8 @@
 ---
-slug: long-blog-post
+slug: LongBlog
 title: Long Blog Post
-authors: yangshun
-tags: [hello, docusaurus]
+authors: ziegler
+tags: [others]
 ---
 
 This is the summary of a very long blog post,

@@ -1,25 +1,25 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+xxl:
+  name: MasterXu
+  title: 电子科创社团第2届社长
+  url: https://github.com/13579xxl/
+  image_url: https://github.com/13579xxl.png
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    github: 13579xxl
+    newsletter: https://10z.nceduc.cn
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+ziegler:
+  name: MasterYuan
+  title: 电子课程社团第1届社长、中国计算机学会学生会员
+  url: https://github.com/MasterYuan418
+  image_url: https://i.imgs.ovh/2025/11/09/7NNGAd.png
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: MasterYuan418
+  
+zzy54:
+  name: Zhangzy-54
+  title: 第二十二届江西省学生信息素养提升实践活动一等奖
+  url: https://github.com/Zhangzy-54
+  image_url: https://youke1.picui.cn/s1/2025/11/09/691023151aa4c.jpg
+  socials:
+    github: Zhangzy-54
