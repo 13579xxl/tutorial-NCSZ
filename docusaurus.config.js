@@ -109,7 +109,7 @@ const config = {
             items: [
               {
                 label: '编者的话',
-                to: '/docs/intro',
+                to: '/docs/导言',
               },
             ],
           },
