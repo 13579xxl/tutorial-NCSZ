@@ -56,6 +56,20 @@ for(语句1 ; 语句2 ; 语句3){
 
 二者的语法在python中无特殊规范，直接输入该命令即可，在此不加示范
 
-另外，本章相关内容可以参考附图
+另外，本章相关内容可以参考附图：
 
+![](./img/break.jpg)
+
+![](./img/continue.jpg)
+
+python语言的`break`和`continue`
+
+![](./img/python-for-break_and_continue.png)
+
+python语言的函数
+
+![](./img/python-function.png).
+
+python语言的`while`
+![](./img/python-while-break_and_continue.webp)
 以上就是本章的所有内容，但条件与循环远不止于此，感兴趣者可自行搜索资料进行进一步学习，也可以对照所给代码进行练习。
