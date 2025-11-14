@@ -58,18 +58,14 @@ for(语句1 ; 语句2 ; 语句3){
 
 另外，本章相关内容可以参考附图：
 
+以下是break与continue详解（来自菜鸟教程，网站见函数章）：
+
 ![](./img/break.jpg)
 
 ![](./img/continue.jpg)
 
-python语言的`break`和`continue`
-
 ![](./img/python-for-break_and_continue.png)
 
-python语言的函数
-
-![](./img/python-function.png).
-
-python语言的`while`
 ![](./img/python-while-break_and_continue.webp)
-以上就是本章的所有内容，但条件与循环远不止于此，感兴趣者可自行搜索资料进行进一步学习，也可以对照所给代码进行练习。
+
+以上就是本章的所有内容，但条件与循环远不止于此，感兴趣者可自行搜索资料进行进一步学习，也可以对照所给代码进行练习（可在学完函数后一并学习）。
