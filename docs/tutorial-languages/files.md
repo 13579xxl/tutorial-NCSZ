@@ -29,22 +29,22 @@ print(message)
 
  简单来说，我们写的.py程序，就是一个模块
  使用这些模块非常简单：
- ```
+ ```python
  import module1[, module2[,... moduleN]]
  ```
  这样，我们就引入了一个模块
  在使用模块内的内容时（比如调用一个函数），我们可以采用如下语法：
- ```
+ ```python
  modname.FunctionName()
  ```
  模块名加函数名的方式即可
  一般的，如果我们不想要引入所有内容，可以使用from-import语句
- ```
+ ```python
  #从指定的modename导入
 from modname import name1[, name2[, ... nameN]]
  ```
  这样就可以导入指定的模块了，当然，如果导入所有模块也可以使用这一语句，实际上这也是很常见的用法：
- ```
+ ```python
  from modname import *
  ```
  
