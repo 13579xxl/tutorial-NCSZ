@@ -26,7 +26,7 @@ sidebar_position: 3
 - 函数内容以冒号 : 起始，并且缩进。
 - return [表达式] ：结束函数，选择性地返回一个值给调用方，不带表达式的 return 相当于返回 None。
  简单的来说，就是如下格式：
- ```
+ ```python
  def 函数名(参数):
     命令
     return 返回值 #可无
@@ -35,7 +35,7 @@ sidebar_position: 3
 
  ## 函数的调用
  python中函数调用的格式如下：
- ```
+ ```python
  #定义一个函数function_one
  def function_one(n):
     return n
@@ -46,11 +46,11 @@ function_one(n)#函数名加参数进行调用
  ## 三、lambda函数
  在python中，如果是一些简单的操作，可以省去用def进行冗长的定义，而使用匿名函数，也叫lambda函数或者lambda表达式（λ），在很多其他语言中也有相关概念，但是定义方式略有不同
  在python中定义方式如下：
- ```
+ ```python
  lambda 参数列表: 表达式
  ```
  特别的，python中的lambda表达式不需要return，比如输出一个数加1：
- ```
+ ```python
  x = lambda a : a + 1
  ```
  这行代码的意思是a为参数，返回a+1作为变量x的值
